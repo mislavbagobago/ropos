@@ -2,3 +2,5 @@ hgjg
 ghjgdfsdahgfh
 git 1
 amend
+git 2
+amend
