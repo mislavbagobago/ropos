@@ -4,4 +4,6 @@ rebase
 s
 m
 m
+moja
+m
 a

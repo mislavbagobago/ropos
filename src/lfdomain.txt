@@ -5,6 +5,8 @@ hjghjga
 rebase 
 s
 
+m
+moja
 
 m
 m
