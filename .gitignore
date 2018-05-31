@@ -2,3 +2,4 @@ target/*
 src/aaa.txt
 ma/*
 maka/*
+*.orig
