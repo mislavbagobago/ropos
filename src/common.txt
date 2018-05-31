@@ -1,3 +1,4 @@
 hgjg
 ghjgdfsdahgfh
 git 1
+amend
