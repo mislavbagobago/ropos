@@ -9,5 +9,5 @@ mojagrana
   gitnew branch
   ropos
   gitnew
-  gitnew
-  
+  gitnew - zapravo ropos
+  ropos
